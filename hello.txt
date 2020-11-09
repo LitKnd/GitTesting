@@ -5,3 +5,4 @@ commit2
 commit3
 
 commit in b2
+commit in b1
